@@ -1,0 +1,2 @@
+# Solution for damos_crackme_1_for_linux by damo2k
+This project contains a key generator and decompiled code for [*damos_crackme_1_for_linux by damo2k*](https://crackmes.one/crackme/5ab77f5533c5d40ad448c1e6)
